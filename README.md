@@ -1,13 +1,12 @@
 # Payment-Gateway-Integration
 Task 3- Adding Payment gateway integration
 
-1.Homepage
-![homepage](https://user-images.githubusercontent.com/68149009/129959624-d8c1e610-631a-4067-a623-386af9116f4f.png)
+◇Create a simple website where payment gateway is integrated.
+◇ There will be a simple donate button on homepage. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g.credit card, Paypal, etc.
 
-2.Donation page 
-![donate](https://user-images.githubusercontent.com/68149009/129959784-920036b3-3daf-4756-b07c-4a0ae891aa7e.png)
-![donation](https://user-images.githubusercontent.com/68149009/129959890-fa392031-cf29-45ba-98e8-34aa7bb0f78c.png)
-![receipt](https://user-images.githubusercontent.com/68149009/129959927-b4cc3e3c-d5ec-48d2-a702-fd4de090f35d.png)
-
+◇ Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
+◇ On any page / email, only basic information is needed.
+◇ Create your own temporary / sandbox / testing accounts with 3rd party for integrations.
+◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
 
